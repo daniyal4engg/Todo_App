@@ -1,0 +1,53 @@
+.bgColor {
+  color: white;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(189, 212, 117, 1) 100%
+  );
+}
+.inpColor {
+  font-weight: bolder;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  border-radius: 5px;
+  color: white;
+}
+.pad {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  font-size: medium;
+}
+.black {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgb(172, 13, 77) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+.mar {
+  margin: 5px;
+}
+.doc {
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+  color: white;
+  font-weight: bolder;
+}
+
+.txt {
+  color: #008793;
+}
